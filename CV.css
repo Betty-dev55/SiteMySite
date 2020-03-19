@@ -1,0 +1,26 @@
+
+.page { width: 780px; margin: auto; font-size: 16px; font-family: Georgia; background: #e5e8f6; }
+.infophoto { height: 80px; background: #C5D3F3; padding: 5px 10px;}
+.info {line-height: 5px;}
+/*.photo { float: right; }*/
+.section01 { margin-top: 10px; text-align: justify; /*background: red;*/}
+.section02 { margin-top: 30px; text-align: justify; /*background: blue;*/}
+.section03 { margin-top: 40px; text-align: justify; /*background: yellow;*/}
+.sec-gauche { float: left; text-align: justify; width: 70%;}
+.sec-gb { float: left; margin-left: 80px; text-align: justify; width: 70%; font-size: 12px; color: grey;}
+.sec-droite01 { margin-left: 580px; margin: 25px 0 10px 0;text-align: right; font-size: 14px; /*line-height: 24px*/;}
+.sec-droite02 { margin-left: 580px; margin: 25px 0 10px 0;text-align: right; font-size: 14px; /*line-height: 20px*/;}
+/*.duree { font-weight: normal; font-style: italic; font-size: 16px; }*/
+.titre { font-weight: bold; font-size: 20px; text-align: center;}
+.sec-1 { float: left; text-align: justify; width: 31%; padding: 0 8px 50px 4px; /*background: #C5D3F3;*/}
+.sec-2 { float: left; margin-left :0 ; text-align: center; width: 31%; padding: 0 13px; background: #C5D3F3;}
+.sec-3 { float: left; margin-left :0 ; width: 31%; padding:0 4px 0 8px; /*background: #C5D3F3*/} 
+h2 { font-size: 20px; color: black; text-transform: uppercase; border-bottom: 3px solid blue; }
+.A {line-height: 23px;}
+.B {line-height: 20px;}
+.C {line-height: 52px;}
+.D {line-height: 0;}
+.E {line-height: 13px;}
+.F {line-height: 29px;}
+.G {line-height: 14px;}
+.H {line-height: 16px;}
